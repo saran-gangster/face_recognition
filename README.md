@@ -1,5 +1,5 @@
 # face_recognition
-standard face recognition
+face recognition mark-1
 
 installation:\
 step 1:download the zip file\
